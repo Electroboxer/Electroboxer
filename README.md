@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Electroboxer
+- 👋 Hi, I’m @VoltCode
 - 👀 I’m interested in electronics and coding
 - 🌱 I’m currently learning c++ and electronics
 - 💞️ I’m looking to collaborate on any project 
